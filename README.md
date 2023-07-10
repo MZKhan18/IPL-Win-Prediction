@@ -1,8 +1,15 @@
 # IPL Win Predictor
 
-This is a web application built with Streamlit that predicts the outcome of an IPL (Indian Premier League) match based on various inputs such as team, city, runs scored, wickets taken, overs completed, and ball number.
+This is a Machine Learning project built with Streamlit that predicts the outcome of an IPL (Indian Premier League) match based on various inputs such as team, city, runs scored, wickets taken, overs completed, and ball number.
+Propability prediction is done using Logistic Regression with accuracy score of 82% and winner is predicted using Random Forest model with an outstanding accuracy of 98%
 
 ## Working Demo : https://ipl-win-predictor-ogkz.onrender.com
+
+## Snapshot of Project
+![snapshot](https://github.com/MZKhan18/IPL-Win-Prediction/assets/83308074/1fb30ce2-e113-437c-8c3d-2a898ce69d2b)
+
+## EDA and Data Visualisation using Power Bi
+![dashboard](https://github.com/MZKhan18/IPL-Win-Prediction/assets/83308074/816935f2-ba97-4931-b3d4-824c5ec7076b)
 
 ## Usage
 
